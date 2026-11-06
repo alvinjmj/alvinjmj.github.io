@@ -1,0 +1,832 @@
+{
+  "../../../../../Cowork/테스트/kids-math-app/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": {
+    "file": "assets/workbox-window.prod.es5-Bd17z0YL.js",
+    "name": "workbox-window.prod.es5",
+    "src": "../../../../../Cowork/테스트/kids-math-app/node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
+    "isDynamicEntry": true
+  },
+  "_CharacterDetail-B9SZrvht.js": {
+    "file": "assets/CharacterDetail-B9SZrvht.js",
+    "name": "CharacterDetail",
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "_PinSetup-CMhuwDLc.js": {
+    "file": "assets/PinSetup-CMhuwDLc.js",
+    "name": "PinSetup",
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "_Toast-BUykkt_a.js": {
+    "file": "assets/Toast-BUykkt_a.js",
+    "name": "Toast"
+  },
+  "_components-htKNcsNn.js": {
+    "file": "assets/components-htKNcsNn.js",
+    "name": "components",
+    "imports": [
+      "_Toast-BUykkt_a.js"
+    ]
+  },
+  "_copy-CGGRxtzx.js": {
+    "file": "assets/copy-CGGRxtzx.js",
+    "name": "copy"
+  },
+  "_gl-Cc5ERsyo.js": {
+    "file": "assets/gl-Cc5ERsyo.js",
+    "name": "gl"
+  },
+  "_gpu-CVmuRrzY.js": {
+    "file": "assets/gpu-CVmuRrzY.js",
+    "name": "gpu"
+  },
+  "_hash-LKx8-2mU.js": {
+    "file": "assets/hash-LKx8-2mU.js",
+    "name": "hash"
+  },
+  "_hooks-fbqRv87U.js": {
+    "file": "assets/hooks-fbqRv87U.js",
+    "name": "hooks",
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js"
+    ]
+  },
+  "_install-DJXD7TgX.js": {
+    "file": "assets/install-DJXD7TgX.js",
+    "name": "install"
+  },
+  "_meta-C8myR4S7.js": {
+    "file": "assets/meta-C8myR4S7.js",
+    "name": "meta",
+    "imports": [
+      "_option-b-BUAVAy3B.js"
+    ]
+  },
+  "_meta-Ca_Is8Ah.js": {
+    "file": "assets/meta-Ca_Is8Ah.js",
+    "name": "meta",
+    "imports": [
+      "_option-b-BUAVAy3B.js"
+    ]
+  },
+  "_notice-BemH4ShQ.js": {
+    "file": "assets/notice-BemH4ShQ.js",
+    "name": "notice"
+  },
+  "_option-b-BUAVAy3B.js": {
+    "file": "assets/option-b-BUAVAy3B.js",
+    "name": "option-b"
+  },
+  "_palettes-Ci3W6D_4.js": {
+    "file": "assets/palettes-Ci3W6D_4.js",
+    "name": "palettes",
+    "imports": [
+      "_option-b-BUAVAy3B.js"
+    ]
+  },
+  "_quiz-BAIO80Gq.js": {
+    "file": "assets/quiz-BAIO80Gq.js",
+    "name": "quiz",
+    "imports": [
+      "_services-DylBNtJa.js",
+      "_hash-LKx8-2mU.js"
+    ]
+  },
+  "_reauth-CIKPlrrg.js": {
+    "file": "assets/reauth-CIKPlrrg.js",
+    "name": "reauth",
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "_render-Drj6n1M6.js": {
+    "file": "assets/render-Drj6n1M6.js",
+    "name": "render",
+    "imports": [
+      "_palettes-Ci3W6D_4.js"
+    ]
+  },
+  "_services-DylBNtJa.js": {
+    "file": "assets/services-DylBNtJa.js",
+    "name": "services",
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_palettes-Ci3W6D_4.js",
+      "_meta-C8myR4S7.js",
+      "_meta-Ca_Is8Ah.js"
+    ],
+    "dynamicImports": [
+      "src/collection/characters/pureut/art.ts",
+      "src/collection/characters/chalbak/art.ts",
+      "src/collection/characters/jigeul/art.ts",
+      "src/collection/characters/ppuu/art.ts",
+      "src/collection/characters/ttogak/art.ts",
+      "src/collection/characters/kkamppak/art.ts",
+      "src/collection/characters/pureut/voxel.ts",
+      "src/collection/characters/chalbak/voxel.ts",
+      "src/collection/characters/jigeul/voxel.ts",
+      "src/collection/characters/ppuu/voxel.ts",
+      "src/collection/characters/ttogak/voxel.ts",
+      "src/collection/characters/kkamppak/voxel.ts",
+      "src/games/obby/index.ts",
+      "src/games/mine/index.ts",
+      "src/games/_kit/showcase.ts"
+    ]
+  },
+  "_session-DcFqyKXk.js": {
+    "file": "assets/session-DcFqyKXk.js",
+    "name": "session",
+    "imports": [
+      "_Toast-BUykkt_a.js"
+    ]
+  },
+  "_shell-BvnN8Mci.js": {
+    "file": "assets/shell-BvnN8Mci.js",
+    "name": "shell",
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js"
+    ],
+    "dynamicImports": [
+      "src/app/platform/gpu.ts"
+    ]
+  },
+  "_still-C0nQN2Ej.js": {
+    "file": "assets/still-C0nQN2Ej.js",
+    "name": "still",
+    "imports": [
+      "_vendor-three-DZ9djlYn.js",
+      "_voxel-B4ykyE7f.js"
+    ]
+  },
+  "_sw-JG3bBNVk.js": {
+    "file": "assets/sw-JG3bBNVk.js",
+    "name": "sw",
+    "imports": [
+      "_session-DcFqyKXk.js",
+      "_services-DylBNtJa.js"
+    ],
+    "dynamicImports": [
+      "../../../../../Cowork/테스트/kids-math-app/node_modules/workbox-window/build/workbox-window.prod.es5.mjs"
+    ]
+  },
+  "_vendor-three-DZ9djlYn.js": {
+    "file": "assets/vendor-three-DZ9djlYn.js",
+    "name": "vendor-three"
+  },
+  "_voxel-B4ykyE7f.js": {
+    "file": "assets/voxel-B4ykyE7f.js",
+    "name": "voxel",
+    "imports": [
+      "_option-b-BUAVAy3B.js",
+      "_vendor-three-DZ9djlYn.js"
+    ]
+  },
+  "_voxel-Dp_z3g3_.js": {
+    "file": "assets/voxel-Dp_z3g3_.js",
+    "name": "voxel",
+    "imports": [
+      "_option-b-BUAVAy3B.js"
+    ]
+  },
+  "_warm3d-CdsMtDWz.js": {
+    "file": "assets/warm3d-CdsMtDWz.js",
+    "name": "warm3d",
+    "imports": [
+      "_session-DcFqyKXk.js"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-DHmoh6x2.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_services-DylBNtJa.js",
+      "_shell-BvnN8Mci.js",
+      "_sw-JG3bBNVk.js",
+      "_install-DJXD7TgX.js"
+    ],
+    "dynamicImports": [
+      "src/app/routes/Welcome.tsx",
+      "src/app/routes/Login.tsx",
+      "src/app/routes/LoginCode.tsx",
+      "src/app/routes/Notice.tsx",
+      "src/app/routes/SignupFamily.tsx",
+      "src/app/routes/ChildCreate.tsx",
+      "src/app/routes/PinSetup.tsx",
+      "src/app/routes/ProfileSelect.tsx",
+      "src/app/routes/ParentGate.tsx",
+      "src/app/routes/PinReset.tsx",
+      "src/app/routes/Home.tsx",
+      "src/app/routes/Quiz.tsx",
+      "src/app/routes/Result.tsx",
+      "src/app/routes/GamePicker.tsx",
+      "src/app/routes/GamePlay.tsx",
+      "src/app/routes/Collection.tsx",
+      "src/app/routes/EggShop.tsx",
+      "src/app/routes/CharacterDetail.tsx",
+      "src/app/routes/AvatarEditor.tsx",
+      "src/app/routes/AvatarShop.tsx",
+      "src/app/routes/ParentDashboard.tsx",
+      "src/app/routes/ReConsent.tsx",
+      "src/app/routes/ParentChild.tsx",
+      "src/app/routes/ChildEdit.tsx",
+      "src/app/routes/ParentSettings.tsx",
+      "src/app/routes/SyncProblems.tsx",
+      "src/app/routes/Devices.tsx",
+      "src/app/routes/Notifications.tsx",
+      "src/app/routes/InstallGuide.tsx",
+      "src/app/routes/NotFound.tsx"
+    ],
+    "css": [
+      "assets/index-C5CpUtUu.css"
+    ],
+    "assets": [
+      "assets/home-bg-b-W5HD3xPV.webp",
+      "assets/ppyong-display-Co6m78JY.woff2"
+    ]
+  },
+  "src/app/platform/gpu.ts": {
+    "file": "assets/gpu-BVIyAnCB.js",
+    "name": "gpu",
+    "src": "src/app/platform/gpu.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_gpu-CVmuRrzY.js"
+    ]
+  },
+  "src/app/routes/AvatarEditor.tsx": {
+    "file": "assets/AvatarEditor-BJNaCRxy.js",
+    "name": "AvatarEditor",
+    "src": "src/app/routes/AvatarEditor.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js"
+    ]
+  },
+  "src/app/routes/AvatarShop.tsx": {
+    "file": "assets/AvatarShop-CnLnJ2oA.js",
+    "name": "AvatarShop",
+    "src": "src/app/routes/AvatarShop.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/CharacterDetail.tsx": {
+    "file": "assets/CharacterDetail-89kREN09.js",
+    "name": "CharacterDetail",
+    "src": "src/app/routes/CharacterDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_CharacterDetail-B9SZrvht.js"
+    ]
+  },
+  "src/app/routes/ChildCreate.tsx": {
+    "file": "assets/ChildCreate-BJSPdJV7.js",
+    "name": "ChildCreate",
+    "src": "src/app/routes/ChildCreate.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_hash-LKx8-2mU.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/ChildEdit.tsx": {
+    "file": "assets/ChildEdit-BqLmNOsb.js",
+    "name": "ChildEdit",
+    "src": "src/app/routes/ChildEdit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_reauth-CIKPlrrg.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/Collection.tsx": {
+    "file": "assets/Collection-BOPtCXY-.js",
+    "name": "Collection",
+    "src": "src/app/routes/Collection.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_CharacterDetail-B9SZrvht.js"
+    ]
+  },
+  "src/app/routes/Devices.tsx": {
+    "file": "assets/Devices-MiRLZpi_.js",
+    "name": "Devices",
+    "src": "src/app/routes/Devices.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_install-DJXD7TgX.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/EggShop.tsx": {
+    "file": "assets/EggShop-CyX_Ww_b.js",
+    "name": "EggShop",
+    "src": "src/app/routes/EggShop.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/GamePicker.tsx": {
+    "file": "assets/GamePicker-CoIJcp3U.js",
+    "name": "GamePicker",
+    "src": "src/app/routes/GamePicker.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_gpu-CVmuRrzY.js",
+      "_gl-Cc5ERsyo.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_shell-BvnN8Mci.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/GamePlay.tsx": {
+    "file": "assets/GamePlay-C7MOTtZ9.js",
+    "name": "GamePlay",
+    "src": "src/app/routes/GamePlay.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_gpu-CVmuRrzY.js",
+      "_hash-LKx8-2mU.js",
+      "_gl-Cc5ERsyo.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/Home.tsx": {
+    "file": "assets/Home-CuNpC9RP.js",
+    "name": "Home",
+    "src": "src/app/routes/Home.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_sw-JG3bBNVk.js",
+      "_quiz-BAIO80Gq.js"
+    ]
+  },
+  "src/app/routes/InstallGuide.tsx": {
+    "file": "assets/InstallGuide-BhU360N3.js",
+    "name": "InstallGuide",
+    "src": "src/app/routes/InstallGuide.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js"
+    ]
+  },
+  "src/app/routes/Login.tsx": {
+    "file": "assets/Login-05145pX5.js",
+    "name": "Login",
+    "src": "src/app/routes/Login.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/LoginCode.tsx": {
+    "file": "assets/LoginCode-sLMy4ITV.js",
+    "name": "LoginCode",
+    "src": "src/app/routes/LoginCode.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_shell-BvnN8Mci.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/NotFound.tsx": {
+    "file": "assets/NotFound-Czhpkeiy.js",
+    "name": "NotFound",
+    "src": "src/app/routes/NotFound.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js"
+    ]
+  },
+  "src/app/routes/Notice.tsx": {
+    "file": "assets/Notice-DKYbarAQ.js",
+    "name": "Notice",
+    "src": "src/app/routes/Notice.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_notice-BemH4ShQ.js"
+    ]
+  },
+  "src/app/routes/Notifications.tsx": {
+    "file": "assets/Notifications-BdVgDWVp.js",
+    "name": "Notifications",
+    "src": "src/app/routes/Notifications.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/ParentChild.tsx": {
+    "file": "assets/ParentChild-KKt-fFkk.js",
+    "name": "ParentChild",
+    "src": "src/app/routes/ParentChild.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js"
+    ]
+  },
+  "src/app/routes/ParentDashboard.tsx": {
+    "file": "assets/ParentDashboard-p1_dprmB.js",
+    "name": "ParentDashboard",
+    "src": "src/app/routes/ParentDashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js"
+    ]
+  },
+  "src/app/routes/ParentGate.tsx": {
+    "file": "assets/ParentGate-CkBd0Bm8.js",
+    "name": "ParentGate",
+    "src": "src/app/routes/ParentGate.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_shell-BvnN8Mci.js"
+    ]
+  },
+  "src/app/routes/ParentSettings.tsx": {
+    "file": "assets/ParentSettings-Fjjfxnh8.js",
+    "name": "ParentSettings",
+    "src": "src/app/routes/ParentSettings.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_reauth-CIKPlrrg.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/PinReset.tsx": {
+    "file": "assets/PinReset-BMrbXiL-.js",
+    "name": "PinReset",
+    "src": "src/app/routes/PinReset.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_copy-CGGRxtzx.js",
+      "_PinSetup-CMhuwDLc.js"
+    ]
+  },
+  "src/app/routes/PinSetup.tsx": {
+    "file": "assets/PinSetup-BUvnkVO-.js",
+    "name": "PinSetup",
+    "src": "src/app/routes/PinSetup.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PinSetup-CMhuwDLc.js"
+    ]
+  },
+  "src/app/routes/ProfileSelect.tsx": {
+    "file": "assets/ProfileSelect-vuBcSaK2.js",
+    "name": "ProfileSelect",
+    "src": "src/app/routes/ProfileSelect.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_sw-JG3bBNVk.js"
+    ]
+  },
+  "src/app/routes/Quiz.tsx": {
+    "file": "assets/Quiz-BdzWBPAq.js",
+    "name": "Quiz",
+    "src": "src/app/routes/Quiz.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_quiz-BAIO80Gq.js",
+      "_warm3d-CdsMtDWz.js"
+    ]
+  },
+  "src/app/routes/ReConsent.tsx": {
+    "file": "assets/ReConsent-Cr2Xv-rN.js",
+    "name": "ReConsent",
+    "src": "src/app/routes/ReConsent.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_services-DylBNtJa.js",
+      "_notice-BemH4ShQ.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/Result.tsx": {
+    "file": "assets/Result-Bn6dJ1Wj.js",
+    "name": "Result",
+    "src": "src/app/routes/Result.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_quiz-BAIO80Gq.js",
+      "_warm3d-CdsMtDWz.js",
+      "_gl-Cc5ERsyo.js",
+      "_gpu-CVmuRrzY.js"
+    ]
+  },
+  "src/app/routes/SignupFamily.tsx": {
+    "file": "assets/SignupFamily-CH5MR25l.js",
+    "name": "SignupFamily",
+    "src": "src/app/routes/SignupFamily.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_notice-BemH4ShQ.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/SyncProblems.tsx": {
+    "file": "assets/SyncProblems-DzWbEaT3.js",
+    "name": "SyncProblems",
+    "src": "src/app/routes/SyncProblems.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js",
+      "_services-DylBNtJa.js",
+      "_session-DcFqyKXk.js",
+      "_copy-CGGRxtzx.js"
+    ]
+  },
+  "src/app/routes/Welcome.tsx": {
+    "file": "assets/Welcome-BbCkarYT.js",
+    "name": "Welcome",
+    "src": "src/app/routes/Welcome.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Toast-BUykkt_a.js",
+      "_components-htKNcsNn.js",
+      "_hooks-fbqRv87U.js"
+    ]
+  },
+  "src/collection/characters/chalbak/art.ts": {
+    "file": "assets/art-50OaoUQT.js",
+    "name": "art",
+    "src": "src/collection/characters/chalbak/art.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_palettes-Ci3W6D_4.js",
+      "_render-Drj6n1M6.js"
+    ]
+  },
+  "src/collection/characters/chalbak/voxel.ts": {
+    "file": "assets/voxel-CCRPZc2S.js",
+    "name": "voxel",
+    "src": "src/collection/characters/chalbak/voxel.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_voxel-Dp_z3g3_.js"
+    ]
+  },
+  "src/collection/characters/jigeul/art.ts": {
+    "file": "assets/art-yJucIyEF.js",
+    "name": "art",
+    "src": "src/collection/characters/jigeul/art.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_palettes-Ci3W6D_4.js",
+      "_render-Drj6n1M6.js"
+    ]
+  },
+  "src/collection/characters/jigeul/voxel.ts": {
+    "file": "assets/voxel-ZEwCxMF_.js",
+    "name": "voxel",
+    "src": "src/collection/characters/jigeul/voxel.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_voxel-Dp_z3g3_.js"
+    ]
+  },
+  "src/collection/characters/kkamppak/art.ts": {
+    "file": "assets/art-DkaFRtre.js",
+    "name": "art",
+    "src": "src/collection/characters/kkamppak/art.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_palettes-Ci3W6D_4.js",
+      "_render-Drj6n1M6.js"
+    ]
+  },
+  "src/collection/characters/kkamppak/voxel.ts": {
+    "file": "assets/voxel-Dpe9DAjz.js",
+    "name": "voxel",
+    "src": "src/collection/characters/kkamppak/voxel.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_voxel-Dp_z3g3_.js"
+    ]
+  },
+  "src/collection/characters/ppuu/art.ts": {
+    "file": "assets/art-CusdV1eq.js",
+    "name": "art",
+    "src": "src/collection/characters/ppuu/art.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_palettes-Ci3W6D_4.js",
+      "_render-Drj6n1M6.js"
+    ]
+  },
+  "src/collection/characters/ppuu/voxel.ts": {
+    "file": "assets/voxel-flhPT-Dw.js",
+    "name": "voxel",
+    "src": "src/collection/characters/ppuu/voxel.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_voxel-Dp_z3g3_.js"
+    ]
+  },
+  "src/collection/characters/pureut/art.ts": {
+    "file": "assets/art-CnsCl2TV.js",
+    "name": "art",
+    "src": "src/collection/characters/pureut/art.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_palettes-Ci3W6D_4.js",
+      "_render-Drj6n1M6.js"
+    ]
+  },
+  "src/collection/characters/pureut/voxel.ts": {
+    "file": "assets/voxel-JCRmPD6t.js",
+    "name": "voxel",
+    "src": "src/collection/characters/pureut/voxel.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_voxel-Dp_z3g3_.js"
+    ]
+  },
+  "src/collection/characters/ttogak/art.ts": {
+    "file": "assets/art-DyNmQlUf.js",
+    "name": "art",
+    "src": "src/collection/characters/ttogak/art.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_palettes-Ci3W6D_4.js",
+      "_render-Drj6n1M6.js"
+    ]
+  },
+  "src/collection/characters/ttogak/voxel.ts": {
+    "file": "assets/voxel-CutNPgTU.js",
+    "name": "voxel",
+    "src": "src/collection/characters/ttogak/voxel.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_voxel-Dp_z3g3_.js"
+    ]
+  },
+  "src/games/_kit/showcase.ts": {
+    "file": "assets/showcase-C-4mTql7.js",
+    "name": "showcase",
+    "src": "src/games/_kit/showcase.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-three-DZ9djlYn.js",
+      "_voxel-B4ykyE7f.js"
+    ]
+  },
+  "src/games/mine/index.ts": {
+    "file": "assets/mine-kwidSxCC.js",
+    "name": "mine",
+    "src": "src/games/mine/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-three-DZ9djlYn.js",
+      "_voxel-B4ykyE7f.js",
+      "_still-C0nQN2Ej.js",
+      "_meta-Ca_Is8Ah.js"
+    ]
+  },
+  "src/games/obby/index.ts": {
+    "file": "assets/obby-DyXTzL_N.js",
+    "name": "obby",
+    "src": "src/games/obby/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-three-DZ9djlYn.js",
+      "_voxel-B4ykyE7f.js",
+      "_still-C0nQN2Ej.js",
+      "_meta-C8myR4S7.js"
+    ]
+  },
+  "src/ui/theme/fonts/ppyong-display.woff2": {
+    "file": "assets/ppyong-display-Co6m78JY.woff2",
+    "src": "src/ui/theme/fonts/ppyong-display.woff2"
+  },
+  "src/ui/theme/home-bg-b.webp": {
+    "file": "assets/home-bg-b-W5HD3xPV.webp",
+    "src": "src/ui/theme/home-bg-b.webp"
+  }
+}
