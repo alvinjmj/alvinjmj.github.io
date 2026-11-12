@@ -1,0 +1,1 @@
+import{n as e}from"./Toast-c9Ls04u9.js";import"./services-CEwMGSUN.js";import"./hooks-Cmmz2qlt.js";import"./components-a4DBZGmL.js";import"./deckflow-iWKEGFYD.js";var t=e=>e.course??{mode:`sequence`,taste:!0};function n(e,t){return(e.find(e=>e.kind!==`final`&&e.skills.some(e=>!t[e]?.mastered))??e[0])?.id??null}e();export{n,t};
